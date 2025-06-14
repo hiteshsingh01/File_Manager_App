@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# System
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Output
+*.zip
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
